@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "a1841591e0e7b66a",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b1244871e8987e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba5800c605479b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "19eea8b29988f64e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-VPN Wireguard/3.1. Serveur VPN WireGuard - coté pfSense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1. Serveur VPN WireGuard - coté pfSense"
+            }
+          },
+          {
+            "id": "cb365a58eca4ad27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Préparation Proxmox/1.2. Configuration réseau.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2. Configuration réseau"
+            }
+          },
+          {
+            "id": "e449fedd2b1fe572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-VPN Wireguard/3.1. Serveur VPN WireGuard - coté pfSense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1. Serveur VPN WireGuard - coté pfSense"
+            }
+          },
+          {
+            "id": "16367bd7f81c501f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-VPN Wireguard/3.2. Client VPN WireGuard - Automatisation du processus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.2. Client VPN WireGuard - Automatisation du processus"
+            }
+          },
+          {
+            "id": "2215785d845dc208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-VPN Wireguard/3.3. Configuration peers sur le serveur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3. Configuration peers sur le serveur"
+            }
+          },
+          {
+            "id": "87206a544d28d60d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Pnetlab/4.6. Gestion laboratoire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.6. Gestion laboratoire"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98931e44099c9259",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e8f74a33b014f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c793c51a7e39d34d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "5365d4f4b31d37cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "e9ebc7554de556e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5
+  },
+  "right": {
+    "id": "bf3878d3ce037dbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "38d676dca032c8ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77744dc267c7b894",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Préparation Proxmox/1.2. Configuration réseau.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour 1.2. Configuration réseau"
+            }
+          },
+          {
+            "id": "d0abbde475fe3c68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-Préparation Proxmox/1.2. Configuration réseau.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de 1.2. Configuration réseau"
+            }
+          },
+          {
+            "id": "935fb8f72d7e5646",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "ca2501abe6f9161b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-Préparation Proxmox/1.2. Configuration réseau.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de 1.2. Configuration réseau"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ba5800c605479b35",
+  "lastOpenFiles": [
+    "03-VPN Wireguard/3.1. Serveur VPN WireGuard - coté pfSense.md",
+    "01-Préparation Proxmox/1.2. Configuration réseau.md",
+    "01-Préparation Proxmox/1.1. Contexte.md",
+    "Fichiers/Architecture_Laboratoire.png",
+    "README.md",
+    "04-Pnetlab/4.6. Gestion laboratoire.md",
+    "04-Pnetlab/Fichiers/Sélection_143.png",
+    "04-Pnetlab/Fichiers/Sélection_142.png",
+    "04-Pnetlab/Fichiers/Pasted image 20241220074941.png",
+    "04-Pnetlab/Fichiers/Pasted image 20241220073907.png",
+    "04-Pnetlab/Fichiers/Pasted image 20241220073845.png",
+    "04-Pnetlab/Fichiers/Pasted image 20241220073323.png",
+    "04-Pnetlab/Fichiers/Sélection_137.png",
+    "04-Pnetlab/Fichiers/Pasted image 20241220073004.png",
+    "04-Pnetlab/Fichiers/Pasted image 20241219080352.png",
+    "04-Pnetlab/Fichiers",
+    "01-Préparation Proxmox/Fichiers",
+    "Fichiers",
+    "03-VPN Wireguard/3.3. Configuration peers sur le serveur.md",
+    "03-VPN Wireguard/3.2. Client VPN WireGuard - Automatisation du processus.md",
+    "03-VPN Wireguard/Fichiers",
+    "04-Pnetlab",
+    "03-VPN Wireguard",
+    "02-Préparation pfSense",
+    "01-Préparation Proxmox"
+  ]
+}
